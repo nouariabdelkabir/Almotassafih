@@ -29,7 +29,7 @@ button > * {
 }
 
 :root{
-  --absBackGroundColor: #6c6c6c;
+  --absBackGroundColor: #797979;
   --backGroundColor: #dddcd9;
   --headingsBGC: #6c6c6c;
   --headingsColor: #000000;
@@ -98,7 +98,7 @@ html {
 }
 
 .quran-wrapper {
-  background-color: var(--backGroundColor);
+  background-image: url("	https://www.bhr-q.com/images/bk2.jpg");
   max-height: 100%;
   max-width: 100%;
   overflow: hidden;
@@ -162,7 +162,7 @@ html {
 .quran-container {
   flex: 1;
   justify-content: center;
-  background-color: var(--backGroundColor);
+  background-image: url("	https://www.bhr-q.com/images/bk2.jpg");
   border-radius: var(--spacing);
   margin-bottom: var(--spacing);
   height: calc(100% - 43px);
