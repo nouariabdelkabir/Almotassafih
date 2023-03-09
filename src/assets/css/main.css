@@ -182,8 +182,17 @@ main.main {
   z-index: 0;
 }
 
-.left-sidebar,.right-sidebar {
-  width: 364px;
+.left-sidebar {
+  width: 260px;
+  /* color: #fff; */
+  padding: var(--spacing);
+  border-radius: var(--spacing);
+  height: 100%;
+  transition: 0.5s;
+  resize: horizontal;
+  }
+  .right-sidebar {
+  width: 400px;
   /* color: #fff; */
   padding: var(--spacing);
   border-radius: var(--spacing);
