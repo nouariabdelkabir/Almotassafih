@@ -125,8 +125,8 @@ var arabicNormChar = {
   "�": "",
 };
 
-// root folder for rawis folders
-const rootSource = 'https:\\\\raw.githubusercontent.com\\the-ten-readings\\dataset\\data\\qurans';
+// root folder for rawis folders 'https:\\\\raw.githubusercontent.com\\the-ten-readings\\dataset\\data\\qurans'
+const rootSource =  '..\\dataset\\qurans';
 
 // Availaible Quran Versions (Riwaiat or Torok) : Configurations
 
@@ -707,8 +707,8 @@ const toggleLoading = (status) => {
 }
 
 const imageLoaded = () => {
-  const sWidth = isExpanded ? 781 : 1025
-  const sHeight = 1305
+  const sWidth = isExpanded ? 815 : 1067
+  const sHeight = 1359
   ctx.canvas.width = sWidth
   ctx.canvas.height = sHeight
 
