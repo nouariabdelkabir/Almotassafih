@@ -217,216 +217,216 @@ var fileSystemSource;
 
 const rawis = {
   R111: {
-    label: "قالون - قصر المنفصل وإسكان الميم",
+    label: "رواية قالون - بالقصر والإسكان",
     folder: "NafiQalown1",
     lastPage: 630,
   },
   R112: {
-    label: "قالون - قصر المنفصل وصلة ميم الجمع",
+    label: "رواية قالون - بالقصر والصلة",
     folder: "NafiQalown2",
     lastPage: 630,
   },
   R113: {
-    label: "قالون - توسط المنفصل وإسكان الميم",
+    label: "رواية قالون - بالتوسط  والإسكان",
     folder: "NafiQalown3",
     lastPage: 630,
   },
   R114: {
-    label: "قالون - توسط المنفصل وصلة ميم الجمع",
+    label: "رواية قالون - بالتوسط  والصلة",
     folder: "NafiQalown4",
     lastPage: 630,
   },
   R121: {
-    label: "ورش - طريق الأزرق",
+    label: "رواية ورش - من طريق الأزرق",
     folder: "NafiWarshALAzraq",
     lastPage: 635,
   },
   R122: {
-    label: "ورش - طريق الأصبهاني",
+    label: "رواية ورش - من طريق الأصبهاني",
     folder: "NafiWarshAspahani",
     lastPage: 630,
   },
 
   R2: {
-    label: "ق.ابن كثير",
+    label: "قراءة الإمام ابن كثير",
     folder: "IbnKatheer",
     lastPage: 630,
   },
   R21: {
-    label: "البزي",
+    label: "رواية البزي",
     folder: "IbnKatheerAlBazzi",
     lastPage: 630,
   },
   R22: {
-    label: "قنبل",
+    label: "رواية قنبل",
     folder: "IbnKatheerQunbol",
     lastPage: 630,
   },
 
   R3: {
-    label: "أبي عمرو البصري",
+    label: "قراءة الإمام أبي عمرو البصري",
     folder: "AlBasri",
     lastPage: 636,
   },
   R311: {
-    label: "الدوري - بتوسط المنفصل",
+    label: "رواية الدوري - بتوسط المنفصل",
     folder: "AlBasriAlDoori1",
     lastPage: 636,
   },
   R312: {
-    label: "الدوري - بقصر المنفصل",
+    label: "رواية الدوري - بقصر المنفصل",
     folder: "AlBasriAlDoori2",
     lastPage: 636,
   },
   R32: {
-    label: "السوسي",
+    label: "رواية السوسي",
     folder: "AlBasriAlSoosi",
     lastPage: 636,
   },
 
   R4: {
-    label: "ابن عامر",
+    label: "قراءة الإمام ابن عامر الشامي",
     folder: "IbnAmmer",
     lastPage: 631,
   },
   R41: {
-    label: "هشام عن ابن عامر",
+    label: "رواية هشام",
     folder: "IbnAmmerHisham",
     lastPage: 631,
   },
   R42: {
-    label: "ذاكون عن ابن عامر",
+    label: "رواية ابن ذاكون",
     folder: "IbnAmmerIbnthkwan",
     lastPage: 631,
   },
 
   R5: {
-    label: "عاصم",
+    label: "قراءة الإمام عاصم الكوفي",
     folder: "Aseem",
     lastPage: 630,
   },
   R51: {
-    label: "شعبة",
+    label: "رواية شعبة",
     folder: "Aseem1Shouba",
     lastPage: 626,
   },
   R521: {
-    label: "حفص دون حاشية",
+    label: "رواية حفص بحاشية يمنى",
     folder: "AseemHafsa1",
     lastPage: 624,
   },
   R522: {
-    label: "حفص بحاشية سفلى",
+    label: "رواية حفص بحاشية سفلى",
     folder: "AseemHafsa2",
     lastPage: 624,
   },
 
   R6: {
-    label: "حمزة الكوفي",
+    label: "قراءة الإمام حمزة الكوفي",
     folder: "Hamza",
     lastPage: 634,
   },
   R611: {
-    label: "خلف - بترك السكت على الساكن المفصول",
+    label: "رواية خلف - بترك السكت على الساكن المفصول",
     folder: "HamzaKhalf1",
     lastPage: 634,
   },
   R612: {
-    label: "خلف - بالسكت على الساكن المفصول",
+    label: "رواية خلف - بالسكت على الساكن المفصول",
     folder: "HamzaKhalf2",
     lastPage: 634,
   },
   R621: {
-    label: "خلاد - بوجه ترك السكت مطلقاً",
+    label: "رواية خلاد - بوجه ترك السكت مطلقاً",
     folder: "HamzaKhallad1",
     lastPage: 634,
   },
   R622: {
-    label: "خلاد - بوجه السكت المعروف له",
+    label: "رواية خلاد - بوجه السكت المعروف له",
     folder: "HamzaKhallad2",
     lastPage: 634,
   },
 
   R71: {
-    label: "الكسائي بالمذهب الإجمالي",
+    label: "قراءة الإمام الكسائي بالمذهب الإجمالي",
     folder: "ALKisaai1",
     lastPage: 631,
   },
   R711: {
-    label: "الليث",
+    label: "رواية الليثب المذهب الإجمالي",
     folder: "ALKisaaiAlLayth1",
     lastPage: 631,
   },
   R712: {
-    label: "الدوري",
+    label: "رواية الدوري بالمذهب الإجمالي",
     folder: "ALKisaaiAlDoori1",
     lastPage: 631,
   },
   R72: {
-    label: "الكسائي بالمذهب التفصيلي",
+    label: "قراءة الإمام الكسائي بالمذهب التفصيلي",
     folder: "ALKisaai2",
     lastPage: 631,
   },
   R721: {
-    label: "الليث - بالمذهب التفصيلي",
+    label: "رواية الليث بالمذهب التفصيلي",
     folder: "ALKisaaiAlLayth2",
     lastPage: 631,
   },
   R722: {
-    label: "الدوري - بالمذهب التفصيلي",
+    label: "رواية الدوري بالمذهب التفصيلي",
     folder: "ALKisaaiAlDoori2",
     lastPage: 631,
   },
 
   R8: {
-    label: "ابي جعفر",
+    label: "قراءة الإمام أبي جعفر المدني",
     folder: "AbuJaafar",
     lastPage: 632,
   },
   R81: {
-    label: "ابن وردان",
+    label: "رواية ابن وردان",
     folder: "AbuJaafarIbnWardan",
     lastPage: 632,
   },
   R82: {
-    label: "ابن جماز",
+    label: "رواية ابن جماز",
     folder: "AbuJaafarIbnjamaz",
     lastPage: 632,
   },
 
   R9: {
-    label: "يعقوب البصري",
+    label: "قراءة الإمام يعقوب الحضرمي",
     folder: "Yaqub",
     lastPage: 628,
   },
   R91: {
-    label: "رويس",
+    label: "رواية رويس",
     folder: "YaqubRuways",
     lastPage: 628,
   },
   R92: {
-    label: "روح",
+    label: "رواية روح",
     folder: "YaqubRooh",
     lastPage: 628,
   },
 
   R10: {
-    label: "خلف العاشر",
+    label: "قراءة الإمام خلف العاشر",
     folder: "Khalaf10",
     lastPage: 626,
   },
   R101: {
-    label: "إسحاق",
+    label: "رواية إسحاق",
     folder: "Khalaf10Eshaq",
     lastPage: 627,
   },
   R1021: {
-    label: "إدريس",
+    label: "رواية إدريس",
     folder: "Khalaf10Idrees1",
     lastPage: 626,
   },
   R1022: {
-    label: "إدريس بالسكت العام",
+    label: "رواية إدريس بالسكت العام",
     folder: "Khalaf10Idrees2",
     lastPage: 627,
   },

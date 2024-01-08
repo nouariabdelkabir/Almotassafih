@@ -541,8 +541,8 @@ main.main {
   min-width: 70px;
   max-width: 70px; */
   width: 50%;
-  min-width: 15%;
-  max-width: 30%;
+  min-width: 10%;
+  max-width: 35%;
 }
 
 .imam-subs {
