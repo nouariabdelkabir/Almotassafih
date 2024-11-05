@@ -119,7 +119,7 @@ html {
 }
 
 .quran-wrapper {
-  background-color: url("	https://img.freepik.com/premium-vector/seamless-arabic-geometric-ornament-brown-color-thick-lines_117445-156.jpg?w=1060&epik=dj0yJnU9azVqbnZpZ19Jd2JhYW5MOVo1NVZCUE5XQWl5NHUwd2gmcD0wJm49TDNzbmtRTW1PbC1nLW0zeXpKUWJpdyZ0PUFBQUFBR2NwNXM4");
+  background-image: url("https://img.freepik.com/premium-vector/seamless-arabic-geometric-pattern-brown-color_117445-189.jpg?w=826");
   max-height: 100%;
   max-width: 100%;
   overflow: hidden;
@@ -142,7 +142,7 @@ html {
 .quran-container {
   flex: 1;
   justify-content: center;
-  background-image: url("	https://www.bhr-q.com/images/bk2.jpg");
+  background-image: url("https://img.freepik.com/premium-vector/seamless-arabic-geometric-pattern-brown-color_117445-189.jpg?w=826");
   border-radius: var(--spacing);
   margin-bottom: var(--spacing);
   height: calc(100% - 43px);
